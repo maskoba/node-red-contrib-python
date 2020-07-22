@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-python",
+  "version": "1.0.0",
+  "description": "for miseruba-iot",
+  "main": "python-shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maskoba/node-red-contrib-python.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "python-shell": "python-shell.js"
+    }
+  },
+  "author": "maskoba",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/maskoba/node-red-contrib-python/issues"
+  },
+  "homepage": "https://github.com/maskoba/node-red-contrib-python#readme"
+}
